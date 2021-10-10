@@ -1,0 +1,21 @@
+A F R
+9
+A X
+B X
+C X
+D X
+E X
+F X
+G G
+H R
+I G
+9
+A B
+B C
+C D
+D E
+E F
+F I
+I H
+H G
+G C
